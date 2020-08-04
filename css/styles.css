@@ -1,11 +1,12 @@
 h1 {
   color: red;
   text-align: center;
+  font-weight: 500;
 }
 
 h2 {
   font-style: italic;
-  text-align: center;
+  text-align: right;
 }
 
 p {
@@ -13,6 +14,6 @@ p {
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 80px;
+  line-height: 100px;
 }
